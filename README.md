@@ -1,1 +1,1 @@
-# Cybersploit1_Vulnhub-Walkthrough
+# Cybersploit:1 ~Vulnhub Walkthrough
