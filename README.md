@@ -1,6 +1,6 @@
 # Cybersploit:1 ~Vulnhub Walkthrough
 Here is Walkthrough of another boot2root challenge called “CyberSploit: 1”. It’s available at Vulnhub for penetration testing. This is an easy level lab. The credit for making this lab goes to cybersploit1. Let’s get started and learn how to successfully break it down. Level: Easy
-
+Download link: https://download.vulnhub.com/cybersploit/cybersploit.ova
 
 ## Scanning
 
